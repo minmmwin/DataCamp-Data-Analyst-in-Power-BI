@@ -20,3 +20,7 @@ https://www.datacamp.com/completed/statement-of-accomplishment/course/f85e9f53be
 Course 3: Data Visualization in Power BI
 1. The Audience is King
 2. Getting an Emotional Response
+3. Reducing Cognitive Load
+4. Less is More
+My statement of Accomplishment can be found in the following link:
+https://www.datacamp.com/completed/statement-of-accomplishment/course/6f8ffe8fc98c4816e123a29ee27cc3ea60a9bf90
