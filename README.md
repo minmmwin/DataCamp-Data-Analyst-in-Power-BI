@@ -16,6 +16,7 @@ Course 2: Learn the DAX Fundamentals
 1. Getting Started with DAX
 2. Context in DAX Formulas
 3. Working with Dates
+
 My statement of Accomplishment can be found in the following link:
 https://www.datacamp.com/completed/statement-of-accomplishment/course/f85e9f53beaa9b02e6de41509deefd6c046564aa
 
