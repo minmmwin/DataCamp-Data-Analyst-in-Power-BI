@@ -7,6 +7,7 @@ Course 1: A Thorough Introduction to Power BI
 2. Transforming Data
 3. Visualizing Data
 4. Filtering
+
 My statement of Accomplishment can be found in the following link:
 https://www.datacamp.com/completed/statement-of-accomplishment/course/aafea962782905eac78268dbfa3c69e78d43290f
 
