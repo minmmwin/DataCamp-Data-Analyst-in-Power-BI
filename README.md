@@ -24,3 +24,6 @@ Course 3: Data Visualization in Power BI
 4. Less is More
 
 My statement of Accomplishment can be found in the following link:(https://www.datacamp.com/completed/statement-of-accomplishment/course/6f8ffe8fc98c4816e123a29ee27cc3ea60a9bf90)
+
+Course 4: Case Study Analyzing Customer Churn in Power BI
+1. Exploratory Analysis
