@@ -27,3 +27,5 @@ My statement of Accomplishment can be found in the following link:(https://www.d
 
 Course 4: Case Study Analyzing Customer Churn in Power BI
 1. Exploratory Analysis
+2. Investigating Churn Patterns
+3. Visualizing your Analysis
