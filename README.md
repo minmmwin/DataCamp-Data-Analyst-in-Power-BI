@@ -29,3 +29,6 @@ Course 4: Case Study Analyzing Customer Churn in Power BI
 1. Exploratory Analysis
 2. Investigating Churn Patterns
 3. Visualizing your Analysis
+My final published report can be found here: (https://app.powerbi.com/groups/me/reports/b8105e66-6489-4f44-8cfd-7212527f9256/75474d7330d347e616b9?experience=power-bi)
+
+My statement of Accomplishment can be found in the following link:(https://www.datacamp.com/completed/statement-of-accomplishment/course/5a876e5c41181abdfb965ca9a006b8eee01d8ce4)
