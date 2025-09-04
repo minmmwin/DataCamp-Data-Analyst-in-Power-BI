@@ -4,9 +4,18 @@ This is the DataCamp Data Analyst in Power BI career track which includes the Po
 There are a total of 17 courses in this DataCamp Career Track. 
 Course 1: A Thorough Introduction to Power BI
 1. Getting Started with Power BI
+   - Discover how to navigate this intuitive tool and get to grips with Power BI’s Data, Model, and Report views
+   - Load multiple datasets in the Data view, build a data model to understand the relationships between tables in Model view
+   - Create a bar graph and interactive map visualization in Report view
+   - Practice using Power Query Editor to prep your data for analysis
 2. Transforming Data
+   -  Shape and transform your data before the data analysis using Power Query Editor
 3. Visualizing Data
+   -  Change and format a wide range of visualizations
+   -  Sort data and create hierarchies—making it possible to drill into your reports
 4. Filtering
+   - Discover how to filter the information in the reports by location
+   - Control how these filters interconnect and interact with other visuals in the report.
 
 My statement of Accomplishment can be found in the following link: (https://www.datacamp.com/completed/statement-of-accomplishment/course/aafea962782905eac78268dbfa3c69e78d43290f)
 
