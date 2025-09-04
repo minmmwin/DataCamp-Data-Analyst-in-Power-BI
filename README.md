@@ -54,3 +54,5 @@ My statement of Accomplishment can be found in the following link: (https://www.
 
 Course 5: Data Preparation in Power BI
 1. Profiling your Data and Introduction to Power Query
+   - Perform essential data preparation steps such as filtering and renaming columns
+   - Use data preview in Power BI to identify common errors that appear in datasets
