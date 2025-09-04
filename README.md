@@ -21,9 +21,18 @@ My statement of Accomplishment can be found in the following link: (https://www.
 
 Course 2: Learn the DAX Fundamentals
 1. Getting Started with DAX
+   - Create custom calculations using Microsoft’s formula language, DAX (Data Analysis Expressions)
+   - Expand source tables with calculated columns
+   - Write calculated measures to help summarize data.
 2. Context in DAX Formulas
+   - Context in Power BI and how it plays an important part when building reports
+   - Use iterator functions to evaluate data at a row level
+   - Explore the CALCULATE function to filter data and finally
+   - Use variables to make writing DAX functions more efficient
 3. Working with Dates
-
+   - Explore the power of DAX's date and time intelligence functions
+   - Use these functions in actions, as well as use quick measures to create complex DAX code
+     
 My statement of Accomplishment can be found in the following link: (https://www.datacamp.com/completed/statement-of-accomplishment/course/f85e9f53beaa9b02e6de41509deefd6c046564aa)
 
 Course 3: Data Visualization in Power BI
