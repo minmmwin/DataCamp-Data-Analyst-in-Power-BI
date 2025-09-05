@@ -59,3 +59,6 @@ Course 5: Data Preparation in Power BI
 2. Data Preview features in Power Query
    - Explore the key data preview features available through Power Query and how they can help us summarize the characteristics of the dataset
    - Investigate the dataset in Power Query to assist in determining the data transformation steps we need to take
+3. Data Manipulation
+   - Explore some of the most common text transformations
+   - Split and merge text columns, trim unwanted characters from any text data, and prefixes to any text data in the dataset
