@@ -56,3 +56,5 @@ Course 5: Data Preparation in Power BI
 1. Profiling your Data and Introduction to Power Query
    - Perform essential data preparation steps such as filtering and renaming columns
    - Use data preview in Power BI to identify common errors that appear in datasets
+2. Data Preview features in Power Query
+   - Explore the key data preview features available through Power Query and how they can help us summarize the characteristics of the dataset. You’ll also understand how investigating your dataset in Power Query can assist in determining the data transformation steps you need to take.
