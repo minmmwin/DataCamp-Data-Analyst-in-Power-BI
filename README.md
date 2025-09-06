@@ -62,3 +62,6 @@ Course 5: Data Preparation in Power BI
 3. Data Manipulation
    - Explore some of the most common text transformations
    - Split and merge text columns, trim unwanted characters from any text data, and prefixes to any text data in the dataset
+4. Numerical transformations in Power Query
+   - Perform some more advanced Power Query transformations
+   - Apply logarithmic and square root transformations on numerical columns, round numerical data, and extract month and week names from date columns
