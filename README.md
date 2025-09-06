@@ -65,3 +65,5 @@ Course 5: Data Preparation in Power BI
 4. Numerical transformations in Power Query
    - Perform some more advanced Power Query transformations
    - Apply logarithmic and square root transformations on numerical columns, round numerical data, and extract month and week names from date columns
+  
+My statement of Accomplishment can be found in the following link: (https://www.datacamp.com/completed/statement-of-accomplishment/course/303301fb89c741baa90a98a4f24f5d5334eb59a8)
