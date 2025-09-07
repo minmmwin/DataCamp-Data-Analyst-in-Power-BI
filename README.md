@@ -25,7 +25,7 @@ Course 2: Learn the DAX Fundamentals
    - Expand source tables with calculated columns
    - Write calculated measures to help summarize data.
 2. Context in DAX Formulas
-   - Context in Power BI and how it plays an important part when building reports
+   - Discover context in Power BI and how it plays an important part when building reports
    - Use iterator functions to evaluate data at a row level
    - Explore the CALCULATE function to filter data and finally
    - Use variables to make writing DAX functions more efficient
