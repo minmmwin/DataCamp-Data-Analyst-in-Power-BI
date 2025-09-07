@@ -71,6 +71,7 @@ My statement of Accomplishment can be found in the following link: (https://www.
 Course 6: Data Transformation in Power BI
 1. Reshaping Data
    -  Restructure and reshape data in Power BI
-   -  Stitch together data in different ways from various sources to enrich analytical capabilities
+2. Combining Data in Power Query
+   -  Combine data in different ways from various sources to enrich analytical capabilities
   
 My statement of Accomplishment can be found in the following link: ()
