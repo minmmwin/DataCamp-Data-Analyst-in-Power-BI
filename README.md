@@ -73,5 +73,6 @@ Course 6: Data Transformation in Power BI
    -  Restructure and reshape data in Power BI
 2. Combining Data in Power Query
    -  Combine data in different ways from various sources to enrich analytical capabilities
-  
+3. Custom Columns
+   - Discover advanced features of Power Query, such as adding custom columns and custom conditionals
 My statement of Accomplishment can be found in the following link: ()
